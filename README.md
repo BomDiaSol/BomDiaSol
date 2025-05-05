@@ -1,3 +1,9 @@
+<div align="center">
+
+# 👋 Olá! Me chamo Ana Valéria
+
+</div>
+
 <h3 align="center">Uma desenvolvedora em formação apaixonada por tecnologia 💻</h3>
 
 <div align="center">
@@ -19,9 +25,7 @@
   </a>
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,fastapi,spring,mysql,docker,postman,vscode" />
