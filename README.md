@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=250&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B%F0%9F%91%8B;My+name+is+Ana+Val%C3%A9ria+%F0%9F%98%81" alt="Typing SVG" />
-  </a>
-</div>
-
 <h3 align="center">Uma desenvolvedora em formação apaixonada por tecnologia 💻</h3>
 
 <div align="center">
